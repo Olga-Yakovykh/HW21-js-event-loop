@@ -1,0 +1,16 @@
+.todolists{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.active{
+    background-color: yellow;
+}
+li{
+    background-color: green;
+    list-style-type: none;
+}
+button {
+    margin-right: 20px;
+}
